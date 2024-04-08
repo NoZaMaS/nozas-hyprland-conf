@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo pacman -Scc && sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
