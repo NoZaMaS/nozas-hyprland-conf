@@ -8,5 +8,5 @@
 
 # --- CONTACT INFOS
 
-  If I ever my this or any of my repos public, you can always contact via discord. Sent me an invite on nozamas, I'll 
+  If I ever set this or any of my repos public, you can always contact via discord. Sent me an invite to "nozamas", I'll 
 add and try to help you (be wary of timezones (sorry for being European)).
