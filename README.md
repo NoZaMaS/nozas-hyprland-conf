@@ -9,7 +9,9 @@
 ## --- PRE-REQUISITES ---
 
   [How to install hyprland](https://wiki.hyprland.org/Getting-Started/Installation/)
+  
   You should also use zsh (using [oh-my-zsh](https://ohmyz.sh/#install) for convenience sake)
+  
   Using [yay](https://github.com/Jguer/yay) would be for the best.
 
   `yay -S pywal swww`
