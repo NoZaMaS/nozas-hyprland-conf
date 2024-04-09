@@ -16,7 +16,7 @@
   
   Using [yay](https://github.com/Jguer/yay) would be for the best.
 
-  `yay -S pywal swww`
+  `yay -S pywal swww neofetch cider`
 
 ## --- CONTACT INFO ---
 
