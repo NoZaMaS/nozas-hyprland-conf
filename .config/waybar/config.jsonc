@@ -31,7 +31,7 @@
 
 "wlr/taskbar": {
    "format": "{icon}",
-   "icon-size": 24,
+   "icon-size": 25,
    "icon-theme": "Numix-Circle",
    "on-click": "minimize-raise",
    "ignore-list" : [
@@ -71,8 +71,7 @@
 },
 
 "mpris": {
-   "dynamic-order": ["title", "artist", "length"
-   ],
+   "dynamic-order": ["title", "artist", "length"],
    "title-len": 30,
    "ellipsis": "(...)",
    "dynamic-separator": "|",
@@ -115,7 +114,7 @@
 	},
 
 	"tray": {
-		"icon-size": 16,
+		"icon-size": 20,
 		"spacing": 5
 	},
 
@@ -137,12 +136,7 @@
     "on-scroll-up": "bash ~/.scripts/volume up",
     "on-scroll-down": "bash ~/.scripts/volume down",
     "scroll-step": 5,
-		"on-click-right": "pavucontrol"
-  },
-	"tray": {
-		"icon-size": 14,
-		"spacong": 5,
-},
+		"on-click-right": "pavucontrol || killall pavucontrol"
   }
 }
 
