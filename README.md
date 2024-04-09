@@ -1,5 +1,7 @@
 # hyprland-conf
 
+![alt text](https://github.com/NoZaMaS/hyprland-conf/blob/main/20240410_00h27m48s_grim.png)
+
 ## --- INTRO ---
 
   Just a nice way for myself to organize and stock all of my linux/hypr thingies (.conf files, wallpapers, etc...)
