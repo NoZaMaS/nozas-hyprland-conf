@@ -9,7 +9,7 @@
 randomfile=$(find "/home/noza/Pictures/wallpaper" -type f | sort -R | head -1)
 
 swww init
-swww img $randomfile
+swww img --transition-type outer --transition-pos 0.$RANDOM,0.$RANDOM $randomfile
 wal -i $randomfile 
 killall waybar
 waybar
